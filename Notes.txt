@@ -1,0 +1,1 @@
+Parents of <div class=grid-subheader style-scope ytd-shelf-renderer> need to be deleted or removed.
