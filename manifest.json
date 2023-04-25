@@ -1,5 +1,11 @@
 {
     "manifest_version": 2,
     "name": "YouTube Inquisition",
-    "Version": "0.1"
+    "Version": "0.1",
+
+    "description": "Removes parts of YouTube that I find get in the way of the ideal YouTube Experience (Ad blocker not included)",
+
+    "icons": {
+        "48": "Icons/Example-48.png"
+    }
 }
