@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "YouTube Inquisition",
+    "version": "0.1",
+
+    "description": "Purges unnecessary elements that hinder and detract from YouTube's experience.",
+
+    "icons": {
+        "48": "icons/border-48.png"
+    }
+}
